@@ -1,4 +1,6 @@
-https://github.com/24a31a05ad/24a31a05ad/blob/e4c39c1980aceb0a9e33ab932f9fa7e97bf28aab/WhatsApp%20Image%202026-06-20%20at%2016.49.35.jpeg
+<p align="center">
+  <img src="https://github.com/24a31a05ad/24a31a05ad/blob/main/WhatsApp%20Image%202026-06-20%20at%2016.49.35.jpeg?raw=true" width="100%">
+</p>
 # 💫 About Me:
 Passionate Computer Science student with an interest in Web Development and Data Structures & Algorithms. Currently improving problem-solving skills through LeetCode and building projects to gain practical experience. Eager to learn, grow, and explore opportunities in the tech industry.
 
